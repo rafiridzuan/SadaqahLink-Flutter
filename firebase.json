@@ -1,0 +1,36 @@
+{
+  "functions": {
+    "source": "functions"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "donatewise-j9idf",
+          "appId": "1:172243413198:android:8a9d6804a36167febd489f",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "donatewise-j9idf",
+          "configurations": {
+            "android": "1:172243413198:android:8a9d6804a36167febd489f",
+            "ios": "1:172243413198:ios:12fd3ed85b893f10bd489f",
+            "macos": "1:172243413198:ios:12fd3ed85b893f10bd489f",
+            "web": "1:172243413198:web:9f66ca85b82856dfbd489f",
+            "windows": "1:172243413198:web:2852f92447f246b8bd489f"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

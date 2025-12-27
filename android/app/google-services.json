@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "172243413198",
+    "firebase_url": "https://donatewise-j9idf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "donatewise-j9idf",
+    "storage_bucket": "donatewise-j9idf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172243413198:android:8a9d6804a36167febd489f",
+        "android_client_info": {
+          "package_name": "com.example.sadaqahlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEg282IUjU_EdkxyqfUrVxV9h8qfMDcuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172243413198:android:eba2937ada8f6145bd489f",
+        "android_client_info": {
+          "package_name": "com.sadaqahlink.sadaqahlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEg282IUjU_EdkxyqfUrVxV9h8qfMDcuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
